@@ -1,11 +1,11 @@
 def execute_all():
-	print('now executing all')
+	print(f,'now executing all')
 	click()
 
 def click():
 	print('click')
 
 
-execute_all() 
+execurte_all() 
 
 

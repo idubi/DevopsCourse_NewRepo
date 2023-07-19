@@ -1,5 +1,5 @@
 def execute_all():
-	print('now executing all')
+	print(f,'now executing all')
 	click()
 
 def click():
