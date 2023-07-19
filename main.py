@@ -1,2 +1,9 @@
 def execute_all():
-	print(f,'now executing all')
+	print'now executing all')
+	welcome()
+
+
+def welcome():
+	print(“New Screen”)
+
+execute_all()
